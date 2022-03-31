@@ -1,7 +1,7 @@
 {
-  "name": "node-stream",
+  "name": "video-streaming",
   "version": "1.0.0",
-  "description": "This is related to stream and buffer",
+  "description": "This file is how to streaming video with node.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,6 +15,7 @@
   "author": "gowtham",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
   }
 }
